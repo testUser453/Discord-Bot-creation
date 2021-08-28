@@ -1,3 +1,0 @@
-Hi. 
-
-In this Github repository you will be learning how to create your very own Discord Bot in repl.it in python.
